@@ -1,7 +1,8 @@
 #!/usr/bin/env python
 #  -*- coding: utf-8 -*-
-"""Simple ciscosparkapi demonstration script to list all Spark Rooms for the given user. 
-Very simple script to create a demo room, post a message, and post a file.
+"""
+Simple script to list the Spark room for the current user
+
 The package natively retrieves your Spark access token from the
 SPARK_ACCESS_TOKEN environment variable.  You must have this environment
 variable set to run this script.
